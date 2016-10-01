@@ -3,3 +3,4 @@ Coursework of Advanced Topics in Statistical Machine Learning ([COMP4680](http:/
 
 ## Content
 - [X] Assignment 1 - Introduction
+- [X] Assignment 2 - Convex Functions
